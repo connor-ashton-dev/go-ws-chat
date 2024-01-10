@@ -9,10 +9,10 @@
 ## Examples
 
 - Starting a server:
-  `./chat -port 3000 -server`
+  `./chat --port 3000 --server`
 
 - Connecting to a sever:
-  `./chat -port 3000 -name "Connor"`
+  `./chat --port 3000 --name "Connor"`
 
 ## To-do:
 
