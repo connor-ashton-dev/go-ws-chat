@@ -14,9 +14,9 @@
 - Connecting to a sever:
   `./chat -port 3000 -name "Connor"`
 
-  ## To-do:
+## To-do:
 
-  - Chat rooms (maybe password protected?)
-  - Colors for each person (currently only colors for current user)
-  - Show active people in room
-  - GUI/TUI
+- Chat rooms (maybe password protected?)
+- Colors for each person (currently only colors for current user)
+- Show active people in room
+- GUI/TUI
