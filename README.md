@@ -2,9 +2,9 @@
 
 ## FLAGS:
 
-    - `-port` specifies the port to connect on
-    - `-server` starts a server. The absense of the flag starts a client
-    - `-name` (CLIENT ONLY) name displayed in chat
+`--port` specifies the port to connect on
+`--server` starts a server. The absense of the flag starts a client
+`--name` (CLIENT ONLY) name displayed in chat
 
 ## Examples
 
